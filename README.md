@@ -1,7 +1,7 @@
 # API-REST-Django-
 API REST desenvolvida em python utilizando o framework Django rest
 
-## Aula 1
+## Parte 1
 
 - Criação do projeto;
 - Instalação de dependências;
@@ -19,10 +19,20 @@ Para iniciar a aplicação utilizei este script:
 python manage.py startapp api
 
 ```
-Para criar o banco de dados utilizei o script
+Para criar o banco de dados utilizei o script:
 
 ```SQL
 
   CREATE DATABASE django_rest
 
+```
+## Parte 2
+
+- Criação das entidades no arquivo models.py herdando a model do Django e definindo as restrições do banco de dados
+- Criação das tabelas do banco de dados
+
+Para criar as tabelas utilizei o script:
+```shell
+
+manage.py makemigrations
 ```
