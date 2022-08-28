@@ -36,3 +36,8 @@ Para criar as tabelas utilizei o script:
 
 manage.py makemigrations
 ```
+e para que seja finalizada a migração utilizei o script:
+```shell
+
+manage.py migrate
+```
