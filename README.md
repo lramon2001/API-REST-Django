@@ -48,6 +48,7 @@ manage.py migrate
 
 ## Parte 4 
 - Criação do método listar todas tecnologias
+- Criando requisições utilizando o Postman
 
 Para levantar o servidor utilizei o script
 ```shell
