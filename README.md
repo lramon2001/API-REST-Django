@@ -49,3 +49,7 @@ manage.py migrate
 ## Parte 4 
 - Criação do método listar todas tecnologias
 
+Para levantar o servidor utilizei o script
+```shell
+ python manage.py runserver
+ ```
