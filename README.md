@@ -46,3 +46,4 @@ manage.py migrate
 
 - Criação dos arquivos de serialização e deserialização dos dados, ou seja, esse arquivo utiliza os serializers do django_rest.
 
+
