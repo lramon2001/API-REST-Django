@@ -29,7 +29,7 @@ python manage.py runserver
 
 Passo 4- Brincar com o postman fazendo requisições nas rotas especificadas em urls
 Exemplo:
-- Utlizar o método post na rota http://127.0.0.1:8000/api/tecnologias/
+- Utlizar o método post na rota do servidor
 - Adicionar ao body um json como este:
 ```json
 {
