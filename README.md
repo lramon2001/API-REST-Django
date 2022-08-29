@@ -7,8 +7,29 @@ API REST 📚🐍 -desenvolvida em python utilizando o framework Django rest
 
 
  </div>
- 
- 
+
+## Para testar a API basta seguir os passos:
+
+Passo 1-Clonar o repositório:
+
+```shell
+git clone https://github.com/lramon2001/API-REST-Django.git
+```
+Passo 2- Entrar no diretório com o arquivo manage.py:
+
+```shell
+cd  api_rest_django
+```
+
+Passo 3- Iniciar o servidor
+
+```shell
+python manage.py runserver
+```
+
+Passo 4- Brincar com o postman fazendo requisições nas rotas especificadas em urls
+
+
 ## Parte 1
 
 - Criação do projeto;
