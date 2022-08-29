@@ -1,4 +1,4 @@
-# API-REST-Django-
+# API-REST-Django 📚
 API REST desenvolvida em python utilizando o framework Django rest
 
 ## Parte 1
