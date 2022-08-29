@@ -1,6 +1,12 @@
 # API-REST-Django 
 API REST 📚🐍 -desenvolvida em python utilizando o framework Django rest
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Judeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Judeu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 
+
+ </div> 
 ## Parte 1
 
 - Criação do projeto;
