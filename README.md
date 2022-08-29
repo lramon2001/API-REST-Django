@@ -41,3 +41,8 @@ e para que seja finalizada a migração utilizei o script:
 
 manage.py migrate
 ```
+
+## Parte 3
+
+- Criação dos arquivos de serialização e deserialização dos dados, ou seja, esse arquivo utiliza os serializers do django_rest.
+
