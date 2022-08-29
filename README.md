@@ -6,7 +6,9 @@ API REST 📚🐍 -desenvolvida em python utilizando o framework Django rest
   
 
 
- </div> 
+ </div>
+ 
+ 
 ## Parte 1
 
 - Criação do projeto;
