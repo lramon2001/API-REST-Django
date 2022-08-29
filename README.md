@@ -54,3 +54,19 @@ Para levantar o servidor utilizei o script
 ```shell
  python manage.py runserver
  ```
+## Parte 4 
+- Criação do método cadastrar tecnologias
+- Criação do método exibindo tecnologia por ID
+
+## Parte 5
+- Removendo Tecnologia
+
+## Parte 6
+- Listando vagas
+- Cadastrando vaga
+
+## Parte 7
+- Exibindo vaga por ID
+- Removendo vaga
+
+
